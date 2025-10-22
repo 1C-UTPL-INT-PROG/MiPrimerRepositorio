@@ -1,0 +1,5 @@
+public class holamundo2 {
+    public static void main(String[] args) {
+        System.out.println("Hola mundo, Hola Profesor Daniel Irene");
+    }
+}
